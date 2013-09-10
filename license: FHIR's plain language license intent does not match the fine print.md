@@ -10,5 +10,5 @@ Whereas the "fine print" stipulates that
 > no modifications are made to this specification.
 
 So, while I'd imagine the plain language intent lets me define (say) a SMART
-Resources specification based on (modified from) FHIR definitions`, the fine
+Resources specification based on FHIR specifications (+modification!), the fine
 print appears to forbid it.

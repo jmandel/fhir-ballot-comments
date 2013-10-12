@@ -14,7 +14,7 @@ be `patient/@123`, a search parameter referencing that patient would be passed
 as `subject=patient/123` (no `@`).  Also when searching by identifier, no `@`
 is used, as in `subject._id=123`.
 
-### This is a burdon for documentation
+### This is a burden for documentation
 The spec has to make note about when `@` is
 neeed vs. other cases when it must be omitted ("not including the @ that goes
 in the URL").
